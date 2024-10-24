@@ -6,6 +6,6 @@
 
 ## Demo
 Click to run online!
-<a href="https://onecompiler.com/php/42w48zda6" target="_blank">https://onecompiler.com/php/42w48zda6</a>
 
+https://onecompiler.com/php/42w48zda6
   
