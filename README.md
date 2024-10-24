@@ -1,15 +1,14 @@
 
-# Sample OOP Inheratence / Strategy Pattern 
+# Sample OOP Inheritance / Strategy Pattern 
 
-2 different price sorter algorithm extended with inheritance and using with strategy pattern principle 
+2 different price sorter algorithm:
 
-Algorithms
--Sort By Price
--Sort By Sales per View
+- Sort By Price
+- Sort By Sales per View
 
+**Purpose:** Demonstrating how inheritance works, combined with the Strategy Pattern principle.
 
 ## Demo
-Click to run online!
-
-https://onecompiler.com/php/42w48zda6
+[Click to run online! (onecompiler)](https://onecompiler.com/php/42w48zda6)
+ 
   
