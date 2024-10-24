@@ -3,6 +3,10 @@
 
 2 different price sorter algorithm extended with inheritance and using with strategy pattern principle 
 
+Algorithms
+-Sort By Price
+-Sort By Sales per View
+
 
 ## Demo
 Click to run online!
